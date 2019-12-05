@@ -350,28 +350,28 @@ to implement for data mining.<br>
 ### Naive Bayes <br>
 ***PCA iterations***
 
-<image src = "/assets/images/table acc naive.png"/>
+<image src = "/assets/images/table acc naive.PNG"/>
 SO we chossed number of PCA componat = 27 for naive bayes.
 
 #### Using Validation set Approach  <br>
 
 * confusion matrix	
 
-<image src = "/assets/images/cm naive.png"/>
+<image src = "/assets/images/cmnaive.PNG"/>
 
 * accuracy <br>
 
 
-<image src = "/assets/images/acc naive.png"/>
+<image src = "/assets/images/accnaive.PNG"/>
 
 ***Using cross validation***  <br>
 
 * confusion Matrix <br> 	
 
-<p><image src = "/assets/images/cm cross naive.png"/></p>
+<p><image src = "/assets/images/cmcrossnaive.PNG"/></p>
 * total accuracy <br>
 		
-<image src = "/assets/images/total acc.png"/><br>
+<image src = "/assets/images/totalacc.PNG"/><br>
 
 
 ### Decision Tree <br>
@@ -380,24 +380,24 @@ SO we chossed number of PCA componat = 27 for naive bayes.
 
 * confusion matrix  <br>
 
-<image src = "/assets/images/cmdec.png"/><br><br>
+<image src = "/assets/images/cmdec.PNG"/><br><br>
 
 
 * accuracy <br>
 
 
-<image src = "/assets/images/accdec.png"/><br>
+<image src = "/assets/images/accdec.PNG"/><br>
 
 
 ***Using cross validation*** <br>
 
 * confusion Matrix <br> 	
 
-<image src = "/assets/images/cm crossdec.png"/>
+<image src = "/assets/images/cmcrossdec.PNG"/>
 
 * total accuracy <br>
 		
-<image src = "/assets/images/total accdec.png"/>
+<image src = "/assets/images/totalaccdec.PNG"/>
 
 
 ### KNN <br>
@@ -406,24 +406,25 @@ SO we chossed number of PCA componat = 27 for naive bayes.
 
 ***confusion matrix*** 
 
-<image src = "/assets/images/k cm.png"/>
+<image src = "/assets/images/kcm.PNG"/>
 
 * accuracy <br>
 
 
-<image src = "/assets/images/k acc.png"/>
+<image src = "/assets/images/kacc.PNG"/>
 
 
 ***Using cross validation***  
 
 * confusion Matrix 	
 
-<image src = "/assets/images/k cm cross.png"/>
+<image src = "/assets/images/kcmcross.PNG"/>
 
 
 * total accuracy 
 		
-<image src = "/assets/images/k total acc.png"/>
+<image src = "/assets/images/ktotalacc.PNG"/>
+
 
 
 # Learning Outcomes
