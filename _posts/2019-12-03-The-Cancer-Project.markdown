@@ -406,6 +406,7 @@ SO we chossed number of PCA componat = 20 for Decision Tree.
 
 
 ### KNN <br>
+
 ***PCA iterations***
 
 <image src = "/assets/images/knnpca.PNG"/>
