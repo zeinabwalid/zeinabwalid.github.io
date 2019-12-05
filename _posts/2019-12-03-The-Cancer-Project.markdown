@@ -376,6 +376,11 @@ SO we chossed number of PCA componat = 27 for naive bayes.
 
 ### Decision Tree <br>
 
+***PCA iterations***
+
+<image src = "/assets/images/decpca.PNG"/>
+SO we chossed number of PCA componat = 20 for Decision Tree.
+
 ***Using Validation set Approach***  <br>
 
 * confusion matrix  <br>
@@ -401,6 +406,10 @@ SO we chossed number of PCA componat = 27 for naive bayes.
 
 
 ### KNN <br>
+***PCA iterations***
+
+<image src = "/assets/images/knnpca.PNG"/>
+SO we chossed number of PCA componat = 30 for KNN.
 
 ***Using Validation set Approach*** 
 
